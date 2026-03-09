@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+built/
+dist/
+coverage/
+.nyc_output/
+.DS_Store
+
+# WordPress
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/plugins/*/node_modules/
+wp-content/themes/*/node_modules/
+
+# Logs
+logs/
+npm-debug.log*
